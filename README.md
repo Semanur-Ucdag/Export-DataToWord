@@ -1,6 +1,6 @@
 # ExportDataToWord
 
--In this project, I export data to word:)
+- In this project, I export data to word:)
 
 
 
