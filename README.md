@@ -1,6 +1,9 @@
 # ExportDataToWord
--This is a test post. 
--The sentences I write now will be transferred into the word file.
+
+-In this project, I export data to word:)
+
+
+
 ![2023-07-25](https://github.com/Semanur-Ucdag/Export-DataToWord/assets/103859993/9d3092b8-a065-44ad-8f1d-d311688b5356)
 
 
